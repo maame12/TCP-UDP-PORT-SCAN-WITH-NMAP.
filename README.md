@@ -64,7 +64,7 @@ ping <target_ip_address>
 ```
 #### Step2: If the machine is UP you can go ahead and scan using NMAP.
 ``` bash
-nmap <target_ip_adress>
+nmap <target_ip_address>
 ```
 You can also scan for all TCP ports available on the machine.
 ``` bash
